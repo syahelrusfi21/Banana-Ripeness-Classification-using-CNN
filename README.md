@@ -17,4 +17,4 @@ Semua proses dilakukan dalam satu notebook, mulai dari:
 Proyek dikembangkan menggunakan TensorFlow dan dijalankan di Google Colab.
 
 ## Dataset
-Dataset yang digunakan dalam proyek ini merupakan kumpulan gambar buah pisang yang terbagi ke dalam 4 kelas seperti telah disebutkan sebelumnya, dan diperoleh dari platform Kaggle.
+Dataset yang digunakan dalam proyek ini merupakan kumpulan gambar buah pisang yang diklasifikasikan ke dalam empat kelas, dan diperoleh dari platform Kaggle. Dataset tersebut dapat diakses melalui tautan berikut: https://www.kaggle.com/datasets/atrithakar/banana-classification
